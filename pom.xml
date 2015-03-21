@@ -6,7 +6,7 @@
   <artifactId>hello01</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-<!--this is testing --><!--and this is change from ...-->
+<!--this is testing -->
   <name>hello01</name>
   <url>http://maven.apache.org</url>
 
